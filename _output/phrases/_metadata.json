@@ -1,0 +1,26 @@
+{
+    "con_acc.hlmod.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "4cbe2f7cb0ce9a9ba1aba7d2deb3c48d"
+    },
+    "con_acc_desc.hlmod.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "con_acc_hlmod_client_id_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "950155009b135822ddc3c10498c9e0e1"
+    },
+    "con_acc_hlmod_client_secret_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "9b6b1b1d1033f8b3df22d334e5daafb1"
+    }
+}

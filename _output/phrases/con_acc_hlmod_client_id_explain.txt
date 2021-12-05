@@ -1,0 +1,1 @@
+The client ID that is associated with your <a href="https://hlmod.ru/hlmoauth_applications/" target="_blank">HLMod developer application</a> for this domain.

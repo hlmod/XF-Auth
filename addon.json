@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "",
+    "title": "[HLModerators] Connected Account",
+    "description": "Implements the OAuth protocol via HLMod OAuth Provider",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "HLMod",
+    "dev_url": "https://hlmod.ru/?utm_source=xenforo_acp&utm_campaign=connected_account",
+    "faq_url": "",
+    "support_url": "https://hlmod.ru/support/",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2020010,
+            "XenForo v2.2+"
+        ]
+    },
+    "icon": "icon.png"
+}

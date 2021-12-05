@@ -1,0 +1,18 @@
+// ############################ BUTTONS #################
+.button,
+a.button // needed for specificity over a:link
+{
+	&.button--provider
+	{
+		&--hlmod
+		{
+			> .button-text:before,
+			button-icon
+			{
+				.m-faBase();
+			}
+
+			.m-buttonIcon(@fa-var-comments, .86em);
+		}
+	}
+}

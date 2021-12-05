@@ -1,0 +1,22 @@
+{
+    "admin/connected_account_provider_hlmod.html": {
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "ca635d211f934045a9492d998f31ee49"
+    },
+    "admin/connected_account_provider_test_hlmod.html": {
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "52a7aa4d5aa6bdc0d1a03eae3812ee7c"
+    },
+    "public/connected_account_associated_hlmod.html": {
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "3cbac69d6470a9416f9fb5986e33e8a6"
+    },
+    "public/hlmod_auth_button.less": {
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "090618c2a2f51cc9381d0c0122f02eef"
+    }
+}
