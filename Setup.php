@@ -34,7 +34,7 @@ class Setup extends AbstractSetup
     public function uninstallStep1()
     {
         /** @var ConnectedAccountProvider $provider */
-        $provider = $this->app->em()->findOne('XF:ConnectedAccountProvider', $this->getProviderField('provider_id'));
+        $provider = $this->app->em()->find('XF:ConnectedAccountProvider', $this->getProviderField('provider_id'));
         if (!$provider)
         {
             // Damn. Something already removed our record.
